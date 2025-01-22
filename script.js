@@ -4,7 +4,7 @@ const products = [
         id: 1,
         name: "طقم كامل",
         price: 29000,
-        images: ["img/1/1.png", "img/1/1.png", "img/1/1.png"],
+        images: ["1.png", "1.png", "1.png"],
         description: "✨ لماذا يجب عليكِ اقتناء هذا المنتج ✨ تسوّقي الآن واستمتعي بالأناقة والراحة في قطعة واحدة!",
         sizes: ["S", "M", "L"]
     },
